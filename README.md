@@ -1,4 +1,14 @@
 # Domain Reply Tuner — Chat Demo
+---
+title: Domain Reply Tuner
+emoji: 💬
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.38.0"
+app_file: app.py
+pinned: false
+---
 
 A Streamlit chat interface for a Mistral-7B model fine-tuned with QLoRA on
 customer-support replies. Code lives on GitHub; the live demo runs on
