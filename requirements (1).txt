@@ -1,9 +1,9 @@
-gradio>=4.44.0
-spaces
+gradio==5.9.1
+spaces>=0.30.3
 torch
 transformers>=4.40.0
 peft>=0.10.0
 accelerate>=0.29.0
 bitsandbytes>=0.43.0
 sentencepiece
-huggingface_hub
+huggingface_hub<1.0
